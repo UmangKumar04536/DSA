@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/UmangKumar04536/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/UmangKumar04536/DSA/tree/master/0118-pascals-triangle) |
 | [0560-subarray-sum-equals-k](https://github.com/UmangKumar04536/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/UmangKumar04536/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/UmangKumar04536/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/UmangKumar04536/DSA/tree/master/0118-pascals-triangle) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/UmangKumar04536/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Simulation
 |  |
 | ------- |
@@ -52,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/UmangKumar04536/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/UmangKumar04536/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Sorting
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/UmangKumar04536/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
